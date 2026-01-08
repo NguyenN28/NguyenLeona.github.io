@@ -1,8 +1,8 @@
 ---
-layout: single
-title: "Home"
+layout: home
+author_profile: true
 ---
 
 ## 👋 Hi, I’m Nguyen
 
-Data Analyst | Excel | SQL | Python | Power BI
+I’m a **Data Analyst** experienced in **Excel, SQL, Python, and Power BI**.
