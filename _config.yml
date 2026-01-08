@@ -1,0 +1,8 @@
+title: Nguyen | Data Analyst
+description: Data Analyst | Excel | SQL | Python | Power BI
+url: https://nguyenn28.github.io
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
